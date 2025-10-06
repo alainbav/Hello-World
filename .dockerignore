@@ -1,0 +1,9 @@
+.git
+.gitignore
+Dockerfile
+docker-compose.yml
+**/*.log
+bin/
+dist/
+out/
+build/
